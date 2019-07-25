@@ -1,0 +1,17 @@
+#bar_blank {
+  border: solid 1px #000;
+  height: 30px;
+  width: 370px;
+  border-radius: 3px;
+}
+ 
+#bar_color {
+  background-color: #F00;
+  height: 30px;
+  width: 0px;
+  border-radius: 3px;
+}
+ 
+#bar_blank, #hidden_iframe {
+  display: none;
+}
